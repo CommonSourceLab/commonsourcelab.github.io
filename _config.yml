@@ -1,0 +1,24 @@
+# Example Site settings
+
+#google_analytics: UA-NNNNNNNN-N
+
+title: 'SpeakEasy: AI-Powered Language Learning'
+description: "A revolutionary English learning app designed to transform your language skills."
+baseurl: "/"
+url: "https://commonsourcelab.com"
+
+header_pages:
+  - index.md
+  - about.md
+  - contact.md
+
+footer: '<a href="https://commonsourcelab.com/privacy">privacy</a>'
+
+style: dark # dark (default) or light
+listen_for_clients_preferred_style: false # true or false (default)
+
+plugins:
+  - jekyll-seo-tag
+
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console

@@ -1,0 +1,32 @@
+# RubyGems 패키지 파일을 무시합니다.
+*.gem
+
+# Bundler 관련 디렉토리와 파일을 무시합니다.
+.bundle
+
+# Sass 캐시 디렉토리를 무시합니다.
+.sass-cache
+
+# Jekyll 빌드 결과물 디렉토리를 무시합니다.
+_site
+
+# Bundler 종속성 파일을 무시합니다.
+Gemfile.lock
+
+# Jekyll 캐시 디렉토리를 무시합니다.
+.jekyll-cache/
+
+# Jekyll 메타데이터 파일을 무시합니다.
+.jekyll-metadata
+
+# IDE와 편집기 설정 파일을 무시합니다.
+.idea/
+.vscode/
+*.swp
+*~
+
+# 환경 설정 파일을 무시합니다.
+.env
+
+# macOS 디렉토리 속성 파일을 무시합니다.
+.DS_Store
