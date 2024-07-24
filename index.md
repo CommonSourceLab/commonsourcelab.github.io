@@ -30,6 +30,6 @@ Start your journey to English fluency with SpeakEasy. Available on both Google P
 
 
 ### 📧 Follow us on social media:
-> [Instagram](https://instagram.com/speakeasy)
+> [Instagram](https://www.instagram.com/commonsourcelab)
 
 Stay connected and keep improving your English with SpeakEasy!
