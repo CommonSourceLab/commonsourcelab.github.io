@@ -31,5 +31,6 @@ Start your journey to English fluency with SpeakEasy. Available on both Google P
 
 ### 📧 Follow us on social media:
 > [Instagram](https://www.instagram.com/commonsourcelab)
+> [X](https://x.com/CommonSourceLab)
 
 Stay connected and keep improving your English with SpeakEasy!
