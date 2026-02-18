@@ -82,4 +82,16 @@ Ready to dive into the simulation? Download **The Blackout: Unsupervised** on th
 ## Support & Contact
 We are committed to delivering a thought-provoking experience that challenges your strategic thinking and ethical reasoning. For bug reports, feature suggestions, or general inquiries, please reach out to us. Your feedback shapes the evolution of Project REVIVE.
 
+## Contact Information
+- **Email:** [contact@commonsourcelab.com](mailto:contact@commonsourcelab.com)
+- **Response Time:** We usually respond within 24-48 hours on business days.
+
+## Frequently Asked Questions
+- **Is this a real cryptocurrency exchange?**
+  No. "The Blackout: Unsupervised AI" is a simulation game. All in-game currencies and exchange features are purely fictional and have no real-world monetary value.
+- **How can I report a bug?**
+  Please send an email to the address above with your device model and a description of the issue.
+
+---
+
 **WARNING:** Cases of déjà vu reported during repeated simulations. Excessive immersion may affect mental clarity. Remember: it is only data.
