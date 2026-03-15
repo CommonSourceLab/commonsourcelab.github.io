@@ -63,7 +63,7 @@ Join the digital ham community today. **DS1UOV's AI CW Radio** is available on t
 ## Support & Contact
 We are dedicated to preserving the art of CW through technology. For technical support, bug reports, or feature requests, please contact our laboratory.
 
-- **Technical Advisor:** DS1UOV (CommonSourceLab)
+- **Technical Advisor:** DS1UOV
 - **Email:** [contact@commonsourcelab.com](mailto:contact@commonsourcelab.com)
 - **Response Time:** Typically within 48 hours.
 
